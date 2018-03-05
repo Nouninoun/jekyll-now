@@ -1,0 +1,35 @@
+{
+    "contacts" :
+    [
+        {
+            "nom":"Tremblay",
+            "prenom":"Paul",
+            "telephone":
+            [
+                {
+                    "type":"maison",
+                    "numero":"514-514-5841"
+                },
+                {
+                    "type":"travail",
+                    "numero":"514-845-1128"
+                }
+            ]
+        },
+        {
+            "nom":"Dumoulin",
+            "prenom":"Henriette",
+            "telephone":
+            [
+                {
+                    "type":"maison",
+                    "numero":"514-542-5874"
+                },
+                {
+                    "type":"chalet",
+                    "numero":"514-587-6487"
+                }
+            ]
+        }
+    ]
+}
